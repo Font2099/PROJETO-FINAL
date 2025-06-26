@@ -13,10 +13,10 @@ Código sobre um dos problemas do projeto final
 - Linguagens
 - Bibliotecas
 
-# Versões:
+# Versão:
 
 - Python 3.13
 
 
-#Autore:
+#Autor:
 - João Pedro Fontebasso Salvador do Nascimento
