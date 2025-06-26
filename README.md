@@ -23,5 +23,6 @@ EXCLUSÃO DE DADOS.
 - Python 3.13
 
 
-#Autor:
+#Autor:![1f4d6](https://github.com/user-attachments/assets/92ad9dda-e54a-4327-bf67-a1585951a2ad)
+
 - João Pedro Fontebasso Salvador do Nascimento
