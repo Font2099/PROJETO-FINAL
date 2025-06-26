@@ -22,7 +22,10 @@ EXCLUSÃO DE DADOS.
 
 - Python 3.13
 
+# 📖 FUNCIONALIDADES:
 
-#Autor:![1f4d6](https://github.com/user-attachments/assets/92ad9dda-e54a-4327-bf67-a1585951a2ad)
+- CADASTRAR; EDITAR & EXCLUIR dados dos clientes
+
+#Autor:
 
 - João Pedro Fontebasso Salvador do Nascimento
